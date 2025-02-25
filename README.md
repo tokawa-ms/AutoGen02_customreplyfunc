@@ -13,4 +13,3 @@ python -m venv .venv
 source .venv/bin/activate  # Windows の場合は `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
-```
